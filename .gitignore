@@ -4,6 +4,7 @@
 *.pyc
 __pycache__
 db.sqlite3
+# Eu estou alterarndo
 
 # Backup files #
 *.bak
