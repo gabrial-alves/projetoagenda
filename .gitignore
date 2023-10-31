@@ -4,6 +4,9 @@
 *.pyc
 __pycache__
 db.sqlite3
+static/
+media/
+projetodj/local_settings.py
 # Eu estou alterarndo
 
 # Backup files #
